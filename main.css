@@ -1,0 +1,24 @@
+.my-chat .wrap-chat {
+  background-color: red !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+.input-wrap img {
+  width: 46.8px;
+  height: 35px;
+  object-fit: cover;
+  border-radius: 500px;
+  margin-right: 10px;
+}
+
+.people-chat .user-photo img {
+  width: 50px !important;
+  height: 50px !important;
+  object-fit: cover;
+}
+.people-chat .chat-secondary {
+  margin-left: 60px !important;
+}
